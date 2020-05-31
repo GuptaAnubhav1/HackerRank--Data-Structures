@@ -1,2 +1,3 @@
-# HackerRank--Data-Structures
-Hacker Rank Data Structures Exercises
+# HackerRank-Algorithms
+Hacker Rank Algorithms Exercises
+
